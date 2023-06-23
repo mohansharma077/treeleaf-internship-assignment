@@ -1,5 +1,3 @@
 
 
-
-
-<h1>All the task are done in google colab. kindly use colab for testing the assignment solution.</h1>
+All the task are done in google colab. kindly use colab for testing the assignment solution.
